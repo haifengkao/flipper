@@ -1,0 +1,26 @@
+{
+  "iOS" : [
+    {
+      "identifier" : "ios-arm64",
+      "container" : "FlipperKit.xcframework",
+      "name" : "FlipperKit",
+      "hash" : "d01dc7abadca15da79735f6f005b508400411ffcc041fb4b95dc092d2eaa0b54"
+    },
+    {
+      "identifier" : "ios-arm64-simulator",
+      "hash" : "084a428f87b60f87e292c5265f9fbf89199d9490f612a6adf9d08fa04bb9bdec",
+      "name" : "FlipperKit",
+      "container" : "FlipperKit.xcframework"
+    }
+  ],
+  "Mac" : [
+
+  ],
+  "commitish" : "edff039b5e5684c25c0efebe0abedbb60cc031aa",
+  "watchOS" : [
+
+  ],
+  "tvOS" : [
+
+  ]
+}

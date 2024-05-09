@@ -9,6 +9,7 @@ target 'FlipperKit' do
 
   project 'FlipperKit.xcodeproj'
   pod 'Flipper', :path => '../Flipper.podspec'
+  pod 'boost-for-react-native'
   # Pods for SonarKit
   pod 'Flipper-PeerTalk', '~>0.0'
   pod 'DoubleConversion', '~>1.1'

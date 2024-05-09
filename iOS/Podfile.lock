@@ -1,4 +1,5 @@
 PODS:
+  - boost-for-react-native (1.63.0)
   - CocoaAsyncSocket (7.6.5)
   - DoubleConversion (1.1.5)
   - Flipper (0.250.0):
@@ -22,6 +23,7 @@ PODS:
   - SSZipArchive (2.4.3)
 
 DEPENDENCIES:
+  - boost-for-react-native
   - CocoaAsyncSocket (~> 7.6)
   - DoubleConversion (~> 1.1)
   - Flipper (from `../Flipper.podspec`)
@@ -33,6 +35,7 @@ DEPENDENCIES:
 
 SPEC REPOS:
   https://github.com/CocoaPods/Specs:
+    - boost-for-react-native
     - CocoaAsyncSocket
     - DoubleConversion
     - Flipper-Boost-iOSX
@@ -52,6 +55,7 @@ EXTERNAL SOURCES:
     :path: "../Flipper.podspec"
 
 SPEC CHECKSUMS:
+  boost-for-react-native: 39c7adb57c4e60d6c5479dd8623128eb5b3f0f2c
   CocoaAsyncSocket: 065fd1e645c7abab64f7a6a2007a48038fdc6a99
   DoubleConversion: e22e0762848812a87afd67ffda3998d9ef29170c
   Flipper: 43f4c9f8e65713ca48d364edf76462184ae3b27e
@@ -67,6 +71,6 @@ SPEC CHECKSUMS:
   SocketRocket: abac6f5de4d4d62d24e11868d7a2f427e0ef940d
   SSZipArchive: fe6a26b2a54d5a0890f2567b5cc6de5caa600aef
 
-PODFILE CHECKSUM: 593b1c319f104733ec8cee5218d1c4e3c032d25b
+PODFILE CHECKSUM: 192f7c187f404e5c211c800c11af67ddfecda3b8
 
 COCOAPODS: 1.15.2
